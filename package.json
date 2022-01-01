@@ -1,12 +1,10 @@
 {
   "name": "cowation",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Personal portfolio package",
   "type": "module",
   "main": "index.js",
-  "bin": {
-    "cowation": "node index.js"
-  },
+  "bin": "index.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/Cowation/cowation-package.git"
