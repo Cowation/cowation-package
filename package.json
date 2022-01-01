@@ -1,0 +1,22 @@
+{
+  "name": "cowation",
+  "version": "1.0.0",
+  "description": "Personal portfolio package",
+  "type": "module",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Cowation/cowation-package.git"
+  },
+  "scripts": {
+    "start": "node ."
+  },
+  "keywords": [
+    "portfolio"
+  ],
+  "author": "Knoddy <cow2cow4cow@gmail.com> (https://knoddy.me/)",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^5.0.0"
+  }
+}
