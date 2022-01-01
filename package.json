@@ -1,6 +1,6 @@
 {
   "name": "cowation",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Personal portfolio package",
   "type": "module",
   "main": "index.js",
